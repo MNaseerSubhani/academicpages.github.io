@@ -83,11 +83,11 @@ author:
   name             : "M.Naseer Subhani"
   avatar           : "profile.png"
   bio              : "Research Scientist"
-  location         : "Pakistan"
+  location         : "Lahore, Pakistan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AmVrh6IAAAAJ&hl=en"
-  email            :
+  email            : "msee16021@itu.edu.pk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/mnaseersubhani/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/mnaseersubhani"
+  twitter          : "mnaseersubhani"
   vine             :
   weibo            :
   xing             :
