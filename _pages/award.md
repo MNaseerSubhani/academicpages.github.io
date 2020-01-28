@@ -1,7 +1,6 @@
-
 ---
 layout: archive
-title: "Honor & awards"
+title: "CV"
 permalink: /award/
 author_profile: true
 redirect_from:
@@ -9,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 Education
 ======
