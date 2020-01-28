@@ -21,8 +21,8 @@ main:
   - title: "CV"
     url: /cv/
     
-#   - title: "Honor & awards"
-#     url: /handa/
+  - title: "Honor & awards"
+    url: /handa/
     
 #   - title: "Guide"
 #     url: /markdown/
