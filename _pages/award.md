@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education
+Honor & awards
 ======
 * B.S. in Electrical Engineering, University of Lahore, 2016
 * M.S. in Electrical Engineering, Information Technology University, Lahore Pakistan, 2018
