@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-======
 * Selected in "Microsoft AI for Earth Community" 
   * received azure credits of 10000USD.
 
