@@ -1,8 +1,8 @@
 
 ---
 layout: archive
-title: "CV"
-permalink: /award_h/
+title: "Honor & awards"
+permalink: /award/
 author_profile: true
 redirect_from:
   - /resume
