@@ -10,24 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Honor & awards
 ======
-* B.S. in Electrical Engineering, University of Lahore, 2016
-* M.S. in Electrical Engineering, Information Technology University, Lahore Pakistan, 2018
+* Selected in "Microsoft AI for Earth Community" 
+  * received azure credits of 10000USD.
 
-Work experience
-======
-* 2018: Research Associate
-  * Information Technology University, Lahore Pakistan
-  * Duties included: Research on Autonomous vehicles
-  * Supervisor: Dr.Mohsen Ali
-
-
-  
-Skills
-======
-* Machine Learning
-* Deep Learning 
-* Natural Language Processing 
-* Big Data Analystics 
 
