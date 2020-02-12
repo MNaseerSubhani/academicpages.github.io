@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "Honor & awards"
+title: "Minimum viable products"
 permalink: /mvps/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 {% include base_path %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-
-* Selected in "Microsoft AI for Earth Community" 
-  * Received azure credits of 10000USD.
