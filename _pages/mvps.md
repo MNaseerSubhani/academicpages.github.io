@@ -1,7 +1,6 @@
-
 ---
 layout: archive
-title: "MVPs"
+title: "Honor & awards"
 permalink: /mvps/
 author_profile: true
 redirect_from:
@@ -13,4 +12,3 @@ redirect_from:
 
 * Selected in "Microsoft AI for Earth Community" 
   * Received azure credits of 10000USD.
-
