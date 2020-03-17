@@ -16,4 +16,4 @@ author_profile: true
 
 
 * Developed screw classification web app for german based industry" 
-  * Received azure credits of 10000USD.
+  * [Link](http://dennis-meuer.com/static/index.html)
