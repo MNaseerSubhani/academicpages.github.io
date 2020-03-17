@@ -14,3 +14,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+* Developed screw classification web app for german based industry" 
+  * Received azure credits of 10000USD.
