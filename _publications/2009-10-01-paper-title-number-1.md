@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 1"
+title: "Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation'
+date: 2020-08-23
+venue: 'ECCV2020 (European Conference on Computer Vision)'
+paperurl: 'https://arxiv.org/pdf/2007.14449.pdf'
+citation: 'M.Naseer Subhani, Mohsen Ali. (2020).  <i>ECCV2020</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Self-supervised learning approaches for unsupervised domain
+adaptation (UDA) of semantic segmentation models suffer from challenges of predicting and selecting reasonable good quality pseudo labels.
+In this paper, we propose a novel approach of exploiting scale-invariance
+property of the semantic segmentation model for self-supervised domain
+adaptation. Our algorithm is based on a reasonable assumption that, in
+general, regardless of the size of the object and stuff (given context) the
+semantic labeling should be unchanged. We show that this constraint is
+violated over the images of the target domain, and hence could be used to
+transfer labels in-between differently scaled patches. Specifically, we show
+that semantic segmentation model produces output with high entropy
+when presented with scaled-up patches of target domain, in comparison
+to when presented original size images. These scale-invariant examples
+are extracted from the most confident images of the target domain. Dynamic class specific entropy thresholding mechanism is presented to filter
+out unreliable pseudo-labels. Furthermore, we also incorporate the focal
+loss to tackle the problem of class imbalance in self-supervised learning. Extensive experiments have been performed, and results indicate
+that exploiting the scale-invariant labeling, we outperform existing selfsupervised based state-of-the-art domain adaptation methods. Specifically, we achieve 1.3% and 3.8% of lead for GTA5 to Cityscapes and
+SYNTHIA to Cityscapes with VGG16-FCN8 baseline network.
+[Github Code](https://github.com/MNaseerSubhani/LSE)
