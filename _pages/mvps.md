@@ -17,3 +17,8 @@ author_profile: true
 
 * Developed screw classification web app for german based industry" 
   * [Link](http://dennis-meuer.com/static/index.html)
+  
+* On device real time disease and pest detection for rice crop" 
+  * [Link](https://youtu.be/9lYyc8XCT34)
+  
+
