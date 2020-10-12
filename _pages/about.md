@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-
-Hi, There.
+Co-founder of Olektr.ai, Aiming to develop products and research in the field
+of computer vision, Deep Learning and Machine Learning.
