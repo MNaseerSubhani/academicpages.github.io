@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -17,7 +17,7 @@ main:
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
-  - title: "MVPs"
+  - title: "Projects"
     url: /mvps/
     
   - title: "CV"
